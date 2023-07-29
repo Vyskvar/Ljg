@@ -1,1 +1,21 @@
-Hello Word
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  
+    
+    <div.text>
+    <h2>Minecraft</h2>
+    <p> Minecraft is my life </p>
+    <a href="https://minecraft.org.ua">Перейти на сайт</a>
+    <img src="https://mmo13.ru/download/content/202004/13/12/image_5e9433f2103851.87065287.jpg" width="500">
+  <script src="script.js"></script>
+</body>
+</html>
